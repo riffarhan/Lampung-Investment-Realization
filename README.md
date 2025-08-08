@@ -11,23 +11,23 @@ Lampung Investment Realization Dashboard
     Data-driven decision support for Lampung Province (2023–2024)
   </p>
   <div style="margin-top:12px; text-align:center;">
-  <a href="https://imgur.com/XSfONJA" target="_blank" rel="noopener noreferrer">
+<figure style="margin:16px auto;max-width:1100px;text-align:center;">
+  <a href="https://public.tableau.com/shared/5HDHHKGJ9?:display_count=n&:origin=viz_share_link"
+     target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img
       src="https://i.imgur.com/XSfONJA.png"
-      alt="Lampung Investment Dashboard Preview"
-      style="max-width:100%; height:auto; border-radius:8px;"
-      width="1000"
-      loading="lazy"
-      decoding="async"
-      fetchpriority="low"
+      alt="Lampung Investment Dashboard preview showing KPIs, top rankings, interactive filters, and geo-distribution map"
+      width="1100"
+      style="width:100%;height:auto;border-radius:10px;border:1px solid #e5e7eb;box-shadow:0 2px 16px rgba(0,0,0,.06);"
+      loading="lazy" decoding="async" fetchpriority="low"
     >
   </a>
-</div>
-
-  <!-- 🔴 IMPORTANT NOTICE -->
-  <div style="background:#fff3cd;color:#664d03;border:1px solid #ffeeba;border-radius:8px;padding:10px 16px;margin:14px 0;font-weight:600;max-width:600px;">
-    ⚠️ This dashboard uses a <u>dummy dataset</u> for demonstration purposes only.  
-    Figures do <u>not</u> represent actual investment data.
+  <figcaption style="color:#6a737d;font-size:13px;margin-top:8px;">
+    Click to view the live Tableau dashboard · ⚠️ Demo uses a dummy dataset
+  </figcaption>
+</figure>
+    >
+  </a>
   </div>
 
 <div style="margin:12px 0 16px;display:flex;gap:8px;flex-wrap:wrap;justify-content:center;">
