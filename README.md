@@ -10,6 +10,19 @@ Lampung Investment Realization Dashboard
   <p style="margin:0;color:#6a737d;">
     Data-driven decision support for Lampung Province (2023–2024)
   </p>
+  <div style="margin-top:12px; text-align:center;">
+  <a href="https://imgur.com/XSfONJA" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://i.imgur.com/XSfONJA.png"
+      alt="Lampung Investment Dashboard Preview"
+      style="max-width:100%; height:auto; border-radius:8px;"
+      width="1000"
+      loading="lazy"
+      decoding="async"
+      fetchpriority="low"
+    >
+  </a>
+</div>
 
   <!-- 🔴 IMPORTANT NOTICE -->
   <div style="background:#fff3cd;color:#664d03;border:1px solid #ffeeba;border-radius:8px;padding:10px 16px;margin:14px 0;font-weight:600;max-width:600px;">
@@ -21,6 +34,7 @@ Lampung Investment Realization Dashboard
     <a href="https://public.tableau.com/shared/5HDHHKGJ9?:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener"
        style="display:inline-block;background:#0969da;color:#fff;border-radius:8px;padding:10px 14px;text-decoration:none;font-weight:600;">
       View Live Dashboard (Tableau Public)
+      
 
   </div>
 
